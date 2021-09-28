@@ -121,13 +121,14 @@ class FavFruit extends React.Component {
         }
 
       </>
+  
     )
 
 
   }
 
           
-    )
+
 }
 }
 
